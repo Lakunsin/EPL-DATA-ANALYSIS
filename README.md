@@ -12,7 +12,7 @@ This project analyzed **32 seasons** of English Premier League (EPL) data to unc
 - **Fewest Goals by a team in a Season**: 11 (Sheffield Utd & Derby, 2020/21 and 2007/08 respectively)
 - **Most points to win the league**: 100 (Manchester City, 2017/18)
 - **Fewest points to win the league**: 75 (Manchester Utd, 1996/97)
-- **Goal Difference vs. League Position Correlation**: -0.91  
+- **Goal Difference vs. League Position Correlation**: -0.91, suggests that a higher goal difference is a strong predictor of league position
 - **6 clubs—Manchester Utd, Arsenal, Liverpool, Chelsea, Tottenham, and Everton**—have never been relegated from the league.
 - **51 different teams** have played in the EPL so far.
 
